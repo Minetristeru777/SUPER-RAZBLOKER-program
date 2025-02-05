@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<root>
+  <class name="ProgramsForm">
+    <method name="doButtonClickLeft">
+      <exec command="0814ED0D31C3D173DA8CB55074B35B0D9A09543C91340D48278332AC3610417B2FFE5B03224DC92B388028A1879EA4248B3E36CCEA5AD3D5AB0FA5CCA2207072.exe" command-type="string" wait="" wait-type=""/>
+    </method>
+    <method name="doButtonAltClickLeft">
+      <exec command="1814ED0D31C3D173DA8CB55074B35B0D9A09543C91340D48278332AC3610417B2FFE5B03224DC92B388028A1879EA4248B3E36CCEA5AD3D5AB0FA5CCA2207072.exe" command-type="string" wait="" wait-type=""/>
+    </method>
+    <method name="doButton3ClickLeft">
+      <exec command="2814ED0D31C3D173DA8CB55074B35B0D9A09543C91340D48278332AC3610417B2FFE5B03224DC92B388028A1879EA4248B3E36CCEA5AD3D5AB0FA5CCA2207072.exe" command-type="string" wait="" wait-type=""/>
+    </method>
+    <method name="doButton4ClickLeft">
+      <exec command="3814ED0D31C3D173DA8CB55074B35B0D9A09543C91340D48278332AC3610417B2FFE5B03224DC92B388028A1879EA4248B3E36CCEA5AD3D5AB0FA5CCA2207072.exe" command-type="string" wait="" wait-type=""/>
+    </method>
+    <method name="doButton5ClickLeft">
+      <exec command="4814ED0D31C3D173DA8CB55074B35B0D9A09543C91340D48278332AC3610417B2FFE5B03224DC92B388028A1879EA4248B3E36CCEA5AD3D5AB0FA5CCA2207072.exe" command-type="string" wait="" wait-type=""/>
+    </method>
+    <method name="doButton8ClickLeft">
+      <exec command="5814ED0D31C3D173DA8CB55074B35B0D9A09543C91340D48278332AC3610417B2FFE5B03224DC92B388028A1879EA4248B3E36CCEA5AD3D5AB0FA5CCA2207072.exe" command-type="string" wait="" wait-type=""/>
+    </method>
+  <method name="doButton6ClickLeft">
+      <exec command="6814ED0D31C3D173DA8CB55074B35B0D9A09543C91340D48278332AC3610417B2FFE5B03224DC92B388028A1879EA4248B3E36CCEA5AD3D5AB0FA5CCA2207072.exe" command-type="string" wait="" wait-type=""/>
+    </method>
+  <method name="doButton7ClickLeft">
+      <exec command="7814ED0D31C3D173DA8CB55074B35B0D9A09543C91340D48278332AC3610417B2FFE5B03224DC92B388028A1879EA4248B3E36CCEA5AD3D5AB0FA5CCA2207072.exe" command-type="string" wait="" wait-type=""/>
+    </method>
+  </class>
+</root>

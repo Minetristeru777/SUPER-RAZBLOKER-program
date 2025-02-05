@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<root>
+  <class name="MainForm">
+    
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  <method name="doButton6ClickLeft">
+      <exec command="shutdown.exe" command-type="string" wait="" wait-type=""/>
+    </method>
+    <method name="doButton7ClickLeft">
+      <exec command="shutdown /r" command-type="string" wait="" wait-type=""/>
+    </method>
+  <method name="doButtonClickLeft">
+      <showNewForm form="ProgramsForm" form-type="form"/>
+    </method>
+  </class>
+</root>
